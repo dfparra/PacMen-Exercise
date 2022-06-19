@@ -2,18 +2,21 @@
 <img src="./images/PacMan1.png">
 
 ## Project Description
-This project involes using JavaScript to make a Factory that generates Pacmen and moves them across the screen.
-
-### How to Run
+This project involves using JavaScript to make a Factory at the click of a button that dynamically generates Pacmen on the screen. The code keeps track of each individual Pacman on the screen and takes into consideration the user’s screen size so that the pacman image bounces off the wall and continues its trajectory across the screen.
 When the button "Add PacMan" is pressed, an image of Pacman is randomly positioned on the screen. 
-When the button "Start Game" is pressed, each pacman will move across the screen in a randomn direction and velocity.
+When the button "Start Game" is pressed, each pacman will move across the screen in a random direction and velocity.
 Once the pacman hits the edge of the screen it will bounce the opposite way. 
 
+### How to Run
+1. Click "Add PacMan" button to generate the desired number of images
+2. Click "Start Game" button to watch each PacMan move across the screen
+
 ### Roadmap of future improvements
-Animate the Pacman image to open and close mouth.
-Have the Pacman image face the direction it is moving in
-Add "Reset" button that clears the screen
-Add background image
+*Add background image
+*Animate the Pacman image to open and close mouth.
+*Have the Pacman image face the direction it is moving in
+*Add "Reset" button that clears the screen
+
 
 
 #### License information
