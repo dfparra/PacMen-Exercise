@@ -1,5 +1,5 @@
 # PacMen Exercise
-<img src="PacMan1.png">
+<img src="./images/PacMan1.png">
 
 ## Project Description
 This project involes using JavaScript to make a Factory that generates Pacmen and moves them across the screen.
