@@ -12,10 +12,10 @@ Once the pacman hits the edge of the screen it will bounce the opposite way.
 2. Click "Start Game" button to watch each PacMan move across the screen
 
 ### Roadmap of future improvements
-*Add background image
-*Animate the Pacman image to open and close mouth.
-*Have the Pacman image face the direction it is moving in
-*Add "Reset" button that clears the screen
+* Add background image
+* Animate the Pacman image to open and close mouth.
+* Have the Pacman image face the direction it is moving in
+* Add "Reset" button that clears the screen
 
 
 
