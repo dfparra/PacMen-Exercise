@@ -1,5 +1,4 @@
 # PacMen Exercise
-<img src="./images/PacMan1.png">
 
 ## Project Description
 This project involves using JavaScript to make a Factory at the click of a button that dynamically generates Pacmen on the screen. The code keeps track of each individual Pacman on the screen and takes into consideration the user’s screen size so that the pacman image bounces off the wall and continues its trajectory across the screen.
